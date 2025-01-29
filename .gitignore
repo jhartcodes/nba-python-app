@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+nba-env/
+__pycache__/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.db
+*.sqlite3
+
+# Python compiled files
+*.pyc
