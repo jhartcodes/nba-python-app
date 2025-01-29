@@ -1,6 +1,7 @@
 # Virtual environment
 venv/
 nba-env/
+env/
 __pycache__/
 
 # IDE settings
